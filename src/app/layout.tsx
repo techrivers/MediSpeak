@@ -7,7 +7,7 @@ import { AuthProvider } from '@/contexts/AuthContext';
 import AppFooter from '@/components/layout/AppFooter';
 
 export const metadata: Metadata = {
-  title: 'SpeakBridge',
+  title: 'MediSpeak',
   description: 'Multilingual medical consultations',
 };
 

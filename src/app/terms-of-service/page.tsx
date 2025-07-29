@@ -22,12 +22,12 @@ export default function TermsOfServicePage() {
 
             <section>
               <h2 className="text-xl font-semibold font-headline mb-2">1. Agreement to Terms</h2>
-              <p>By accessing or using the SpeakBridge application ("Application"), you agree to be bound by these Terms of Service ("Terms"). If you disagree with any part of the terms, then you may not access the Application. These Terms apply to all users of the Application.</p>
+              <p>By accessing or using the MediSpeak application ("Application"), you agree to be bound by these Terms of Service ("Terms"). If you disagree with any part of the terms, then you may not access the Application. These Terms apply to all users of the Application.</p>
             </section>
 
             <section>
               <h2 className="text-xl font-semibold font-headline mb-2">2. Use of the Application</h2>
-              <p>SpeakBridge provides a platform for multilingual medical consultations. You agree to use the Application only for its intended purposes and in accordance with all applicable laws and regulations.</p>
+              <p>MediSpeak provides a platform for multilingual medical consultations. You agree to use the Application only for its intended purposes and in accordance with all applicable laws and regulations.</p>
               <ul className="list-disc list-inside ml-4 space-y-1">
                 <li>You are responsible for maintaining the confidentiality of your account and password.</li>
                 <li>You agree not to misuse the Application, including but not limited to, attempting to gain unauthorized access, transmitting harmful code, or disrupting the service.</li>
@@ -42,17 +42,17 @@ export default function TermsOfServicePage() {
             
             <section>
               <h2 className="text-xl font-semibold font-headline mb-2">4. Intellectual Property</h2>
-              <p>The Application and its original content, features, and functionality are and will remain the exclusive property of SpeakBridge and its licensors. The Application is protected by copyright, trademark, and other laws of both [Your Country/Jurisdiction] and foreign countries.</p>
+              <p>The Application and its original content, features, and functionality are and will remain the exclusive property of MediSpeak and its licensors. The Application is protected by copyright, trademark, and other laws of both [Your Country/Jurisdiction] and foreign countries.</p>
             </section>
 
             <section>
               <h2 className="text-xl font-semibold font-headline mb-2">5. Disclaimer of Warranties</h2>
-              <p>The Application is provided on an "AS IS" and "AS AVAILABLE" basis. SpeakBridge makes no warranties, expressed or implied, and hereby disclaims and negates all other warranties including, without limitation, implied warranties or conditions of merchantability, fitness for a particular purpose, or non-infringement of intellectual property or other violation of rights.</p>
+              <p>The Application is provided on an "AS IS" and "AS AVAILABLE" basis. MediSpeak makes no warranties, expressed or implied, and hereby disclaims and negates all other warranties including, without limitation, implied warranties or conditions of merchantability, fitness for a particular purpose, or non-infringement of intellectual property or other violation of rights.</p>
             </section>
 
              <section>
               <h2 className="text-xl font-semibold font-headline mb-2">6. Limitation of Liability</h2>
-              <p>In no event shall SpeakBridge or its suppliers be liable for any damages (including, without limitation, damages for loss of data or profit, or due to business interruption) arising out of the use or inability to use the Application, even if SpeakBridge or a SpeakBridge authorized representative has been notified orally or in writing of the possibility of such damage.</p>
+              <p>In no event shall MediSpeak or its suppliers be liable for any damages (including, without limitation, damages for loss of data or profit, or due to business interruption) arising out of the use or inability to use the Application, even if MediSpeak or a MediSpeak authorized representative has been notified orally or in writing of the possibility of such damage.</p>
             </section>
 
             <section>

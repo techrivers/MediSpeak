@@ -23,7 +23,7 @@ export default function PrivacyPolicyPage() {
             
             <section>
               <h2 className="text-xl font-semibold font-headline mb-2">1. Introduction</h2>
-              <p>Welcome to SpeakBridge. We are committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our application. Please read this privacy policy carefully. If you do not agree with the terms of this privacy policy, please do not access the application.</p>
+              <p>Welcome to MediSpeak. We are committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our application. Please read this privacy policy carefully. If you do not agree with the terms of this privacy policy, please do not access the application.</p>
             </section>
 
             <section>

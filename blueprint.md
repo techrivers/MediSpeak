@@ -1,4 +1,4 @@
-# **App Name**: SpeakBridge
+# **App Name**: MediSpeak
 
 ## Core Features:
 

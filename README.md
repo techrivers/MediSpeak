@@ -1,10 +1,10 @@
-# SpeakBridge
+# MediSpeak
 
-A real-time medical translation platform designed to bridge language barriers between healthcare providers and patients. SpeakBridge enables secure, accurate, and efficient communication in multilingual healthcare settings.
+A real-time medical translation platform designed to bridge language barriers between healthcare providers and patients. MediSpeak enables secure, accurate, and efficient communication in multilingual healthcare settings.
 
 ## Overview
 
-SpeakBridge is a Next.js-based web application that provides real-time bidirectional translation capabilities for medical consultations. The platform prioritizes patient privacy through data anonymization and offers an intuitive interface designed specifically for healthcare environments.
+MediSpeak is a Next.js-based web application that provides real-time bidirectional translation capabilities for medical consultations. The platform prioritizes patient privacy through data anonymization and offers an intuitive interface designed specifically for healthcare environments.
 
 ## Core Features
 
@@ -113,7 +113,7 @@ src/
 1. Clone the repository:
 ```bash
 git clone <repository-url>
-cd speakbridge
+cd MediSpeak
 ```
 
 2. Install dependencies:
@@ -212,4 +212,4 @@ For technical support or feature requests, please contact the development team o
 
 ---
 
-**SpeakBridge** - Bridging language barriers in healthcare, one conversation at a time.
+**MediSpeak** - Bridging language barriers in healthcare, one conversation at a time.
